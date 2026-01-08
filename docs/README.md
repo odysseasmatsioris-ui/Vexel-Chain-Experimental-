@@ -32,16 +32,12 @@ The project is not intended as a financial product.
 ## Consensus Mechanism
 Consensus Type: Proof of Work (PoW)
 
-Blocks are produced through mining, where participants perform computational work to secure the network.
-
-Mining is open and permissionless for experimental purposes.
+Vexel Chain uses Proof of Work to validate blocks and secure the network.
 
 ---
 
 ## Mining Algorithm
 Algorithm: SHA-256 (educational use)
-
-This algorithm is chosen for simplicity and learning, not for competition with existing networks.
 
 ---
 
@@ -57,6 +53,21 @@ Supply Type: Inflationary
 Block Reward: 50 VXL per block  
 
 There is no fixed maximum supply. New coins are created as mining rewards to incentivize participation and secure the network.
+
+---
+
+## Mining & Rewards
+Vexel Chain uses Proof of Work (PoW) to secure the network.
+
+Mining Algorithm: SHA-256  
+Block Reward: 50 VXL  
+Target Block Time: ~30 seconds  
+Difficulty Adjustment: Every 10 blocks  
+
+Mining is open and permissionless for experimental purposes.  
+Difficulty is intentionally kept low to allow easy participation and learning.
+
+Mining rewards are created by the protocol and distributed automatically.
 
 ---
 
